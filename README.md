@@ -9,6 +9,7 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 - [🛠️ Tools](#️-tools)
 - [📚 Libraries & Frameworks](#-libraries--frameworks)
 - [📝 Articles](#-articles)
+- [💎 Alpha Leak](#-alpha-leak)
 - [🎬 Videos](#-videos)
 - [🎓 Courses](#-courses)
 - [📄 Research Papers](#-research-papers)
@@ -36,6 +37,10 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 - [Remotion](https://www.remotion.dev/) - Create videos programmatically with React `2026-01-20`
 
 ## 📝 Articles
+
+## 💎 Alpha Leak
+
+- [Boris Cherny's Claude Code Workflow](https://x.com/bcherny/status/2007179832300581177) - Compound AI engineering workflow `2026-01-20`
 
 ## 🎬 Videos
 
