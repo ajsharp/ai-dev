@@ -19,6 +19,7 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 ## 🔌 Claude Code Plugins & Skills
 
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official/tree/main) - Official Anthropic plugins for Claude Code `2026-01-20`
+- [ralph-wiggum](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum) - Iterative AI dev loop where Claude re-engages with the same prompt, reading its own previous work to autonomously refine solutions `2026-01-20`
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin/tree/main) `2026-01-20`
 - [claude_commands](https://github.com/EveryInc/claude_commands/tree/main) `2026-01-20`
 - [skills.sh](https://skills.sh/) - Community skills for Claude Code `2026-01-20`
