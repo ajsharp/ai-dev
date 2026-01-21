@@ -24,6 +24,7 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 - [claude_commands](https://github.com/EveryInc/claude_commands/tree/main) `2026-01-20`
 - [skills.sh](https://skills.sh/) - Community skills for Claude Code `2026-01-20`
 - [beads](https://github.com/steveyegge/beads) - Issue tracker for AI agents by Steve Yegge `2026-01-20`
+- [humanizer](https://github.com/blader/humanizer) - Skill that detects and removes telltale signs of AI-generated text `2026-01-21`
 
 ## 🖧 MCP Servers
 

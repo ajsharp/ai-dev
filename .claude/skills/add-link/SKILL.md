@@ -28,4 +28,4 @@ Add a new link to the AI Dev awesome-list.
    - Keep descriptions concise (under 100 characters)
    - Link to the primary source
 
-5. If the user says "commit" or "push", commit and push the changes
+5. Commit the changes after adding the link
