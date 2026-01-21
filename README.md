@@ -31,6 +31,7 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 
 ## 🛠️ Tools
 
+- [Flux](https://github.com/sirsjg/flux) - AI-powered Kanban board with MCP integration for human-AI task collaboration `2026-01-20`
 - [OpenCode](https://opencode.ai/) `2026-01-20`
 
 ## 📚 Libraries & Frameworks
