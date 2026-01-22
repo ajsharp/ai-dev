@@ -39,6 +39,7 @@ A curated list tracking the rapidly evolving AI engineering landscape.
 ## 📚 Libraries & Frameworks
 
 - [Remotion](https://www.remotion.dev/) - Create videos programmatically with React `2026-01-20`
+- [json-render](https://json-render.dev/) - AI-powered UI generation framework with guardrails and streaming `2026-01-22`
 
 ## 📝 Articles
 
