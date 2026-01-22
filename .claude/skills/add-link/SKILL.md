@@ -24,6 +24,7 @@ Add a new link to the AI Dev awesome-list.
    - **Research Papers** - Academic papers
 
 4. Add the entry in the format: `- [Name](link) - Description \`YYYY-MM-DD\``
+   - Add new entries at the TOP of each section (reverse chronological order)
    - Use today's date
    - Keep descriptions concise (under 100 characters)
    - Link to the primary source
